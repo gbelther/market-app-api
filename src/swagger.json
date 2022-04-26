@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "MarketAPP Documentation",
+    "description": "A documentation from GBFoods API",
+    "version": "1.0.0",
+    "contact": {
+      "email": "suport@marketapp.com"
+    }
+  },
+  "paths": {}
+}
